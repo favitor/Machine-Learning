@@ -1,2 +1,2 @@
 # Machine-Learning
-simples machine learning models
+Machine Learning Project
